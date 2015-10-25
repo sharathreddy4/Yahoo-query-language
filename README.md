@@ -1,5 +1,4 @@
 ## YAHOO QUERY LANGUAGE
-##Presentation 2
 
 
 ####Table of Contents:
