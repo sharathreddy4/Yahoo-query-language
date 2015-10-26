@@ -1,6 +1,6 @@
 #**YQL WEB SERVICES**
 #**Yahoo Local Search WebServices**
-- There are various ways you can construct a YQL statement, which useslocal.search.
+- There are various ways you can construct a YQL statement, which uses local.search.
 
 	Using zip code and query
 
