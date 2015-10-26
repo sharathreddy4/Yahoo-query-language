@@ -1,6 +1,8 @@
 #**YQL STATEMENTS**
 - The following table lists all YQL statements.
 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL3.1.PNG "Statement 1")
+
 ##**The SELECT statement in detail**
 
 - SELECT is the most important YQL statement.The SELECT statement of YQL retrieves data from YQL tables. The YQL Web Servicefetches data from a back-end data source (often a Web service), transforms the data, and returns the data in either XML or JSON format. Table rows are represented as repeating XML elements or JSONobjects.
@@ -23,9 +25,9 @@
 
 - Some services (such as flickr) require an API key to use their services.
 
-- As we saw, the console provides a huge set of pre-defined tables. In addition there are community open data tables. When you execute a YQL statement and you see an error such as, “No definition found for …..”, it is likely that it is a community open data table. To use such a table, you check “Show Community Tables” link under Data Tables on the left side of theconsole:
+- As we saw, the console provides a huge set of pre-defined tables. In addition there are community open data tables. When you execute a YQL statement and you see an error such as, “No definition found for …..”, it is likely that it is a community open data table. To use such a table, you check “Show Community Tables” link under Data Tables on the left side of the console:
 
-
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL3.2.PNG "Statement 2")
 
 
 
@@ -39,8 +41,9 @@ This will search Google for the wordObama.
 
 - Note: The YQL console might display an error: “No definition found for Table google.search.” If you see this error message, check the box to the left of “Show Community Tables”.  It will nowwork.
 
-Here is the result (shownpartially):
+Here is the result (shown partially):
 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL3.3.PNG "Statement 3")
 
 	Selecting certain fields only
 
@@ -48,22 +51,9 @@ Here is the result (shownpartially):
 
 select  title,content  from  google.search  whereq='Obama'
 
-
-
-
-
-
-
-
-
-
-
-
-
 - Here is theresult:
 
- 
-
+ ![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL3.4.PNG "Statement 4")
 
 	Using AND and OR infilters
 The filter expressions can be combined with the boolean AND and OR operators. The AND operator has precedence over the OR operator. To change precedence, encloseexpressions inparentheses.
