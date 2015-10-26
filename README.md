@@ -1,6 +1,6 @@
 ## YAHOO QUERY LANGUAGE
 
-by Sharath Reddy Vontari  and  Praveen Kumar Devaraj
+by Sharath Reddy Vontari(shvo9452)  and  Praveen Kumar Devaraj(prde1873)
 
 
 ####Table of Contents:
