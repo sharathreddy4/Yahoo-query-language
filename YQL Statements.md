@@ -5,7 +5,6 @@
 
 - SELECT is the most important YQL statement.The SELECT statement of YQL retrieves data from YQL tables. The YQL Web Servicefetches data from a back-end data source (often a Web service), transforms the data, and returns the data in either XML or JSON format. Table rows are represented as repeating XML elements or JSONobjects.
 
-- Syntax of SELECT
 
 - The YQL SELECT statement has the following syntax:
 
@@ -136,7 +135,9 @@ select title from google.search where q in ('Obama', 'Clinton','Carter') |trunca
 - Example:
 select title from google.search where q in ('Obama', 'Clinton','Carter') |tail(count=3)
 
- 
+ [**NEXT**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/YQL%20Web%20Services.md)     
+
+[**BACK TO CONTENTS**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/README.md)
 
 
 
