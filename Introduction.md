@@ -9,4 +9,7 @@ SELECT what FROM source WHEREconditions
 - When it processes a query, the YQL Web Service accesses a datasource on the Internet,   transforms the data, and returns the results in either XML or JSON format. 
 - YQL can access  several types of datasources, including Yahoo Web Services, other Web services, and Web  content in formats such as HTML, XML, RSS, and Atom.
 
+[**NEXT**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/YQL%20Console.md)     
+
+[**BACK TO CONTENTS**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/README.md)
 
