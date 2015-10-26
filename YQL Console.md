@@ -2,7 +2,9 @@
 - The YQL console is the GUI provided by Yahoo to apply YQL statements. First, sign in to your Yahoo account and then to open the console, go to: http://developer.yahoo.com/yql/console/.
 - If you don’t have a Yahoo account, sign up for one.
 - When we click the link, we can see the following console screen:
- 
+- 
+ ![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL2.1.PNG)
+
 ## Important components of the console:
 
 - 1.	This is the box where we can type the YQLstatements.
