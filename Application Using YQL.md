@@ -146,7 +146,7 @@ img.src ='http://farm'+farm+'.static.flickr.com/'+server+'/'+id+'_'+secret+'.jpg
 </html>
 
 
- [**NEXT**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/Application%20Using%20YQL.md)     
+ [**NEXT**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/Conclusion.md)     
 
 [**BACK TO CONTENTS**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/README.md)
 
