@@ -45,6 +45,11 @@ select * from local.search where query="sushi" and location="san francisco,ca"
  
 
 - We can try more Data Tables from the console. As we notice there is a huge set of YQL statements readily available.
+- 
+[**NEXT**]https://github.com/sharathvontari/Yahoo-query-language/blob/master/YQL%20Statements.md()     
+
+[**BACK TO CONTENTS**](https://github.com/sharathvontari/Yahoo-query-language/blob/master/README.md)
+
 
 
 
