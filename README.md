@@ -1,7 +1,7 @@
 ## YAHOO QUERY LANGUAGE
 
-CSCI5828-Presentation 2
-by Sharath Reddy Vontari(shvo9452)  and  Praveen Kumar Devaraj(prde1873)
+- CSCI5828-Presentation 2
+- by Sharath Reddy Vontari(shvo9452)  and  Praveen Kumar Devaraj(prde1873)
 
 
 ####Table of Contents:
