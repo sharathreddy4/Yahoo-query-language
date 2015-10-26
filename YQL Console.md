@@ -22,6 +22,7 @@
 By default the YQL statement show tables appears in the statement box.
 - Step 2: As an example, click find sushi restaurants in san Francisco under Example Queries (box 3 above)
 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL2.2.PNG "Console Screen 2")
 
  This will bring the following YQL statement in box1:
 
