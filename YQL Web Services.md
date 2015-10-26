@@ -150,30 +150,28 @@ https://www.flickr.com/import/people/yahoo/
 
 - Right click on your Buddy icon and select “Save LinkAs”:
 
-
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.1.PNG "Web Service 1")
 - Copy the user id and save it for futurereference. csci user id:92894228@N02
-- Flicker users form groups according to their interest in photos. To find some groups, go to the site: http://www.flickr.com/groups. Select “Search Groups” from the drop down menu under the Groupstab:
+- Flicker users form groups according to their interest in photos. To find some groups, go to the site: http://www.flickr.com/groups. Select “Search Groups” from the drop down menu under the Groups tab:
+
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.2.PNG "Web Service 2")
  
 - Next type the group you like to find. For example, you can type Paris, New York, Big Ben and so on. When you click Search, you will see a list of groups interested in that area. For example, when you search for a “New York” group, you will see a list like this (in the beta version of the “new groupsexperience”):
  
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.3.PNG "Web Service 3")
 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.4.PNG "Web Service 4") 
 
- 
-
-
-
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.5.PNG "Web Service 5")
 
 Click a group, for example, “New York Holiday” and you will see:
  
-
-
-
-This is agroup.
+This is a group.
 
 
 - Each group has an ID. To find the group id, copy the URL for the group from the Web browser (in our example, it is https://www.flickr.com/groups/nyholiday/ ). Next, go to http://idgettr.com/ , paste in the link as shown below and select“Find”:
 
-
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.6.PNG "Web Service 6")
 
 - Notice the group id for this “New York Holiday” group:74919583@N00.
 
@@ -182,13 +180,11 @@ This is agroup.
 
    In YQL console, on the left panel, under Data Tables, see the entryflickr:
 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.7.PNG "Web Service 7")
 
 - Click flickr to expand, you will see a list of all flickr tables available to you:
  
-
-
-
- 
+![alt text](https://github.com/pkdevaraj/Presentations/blob/gh-pages/IMAGES/YQL4.8.PNG "Web Service 8")
 
 
 - Forcscipresentation2:
