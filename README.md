@@ -1,5 +1,7 @@
 ## YAHOO QUERY LANGUAGE
 
+by Sharath Reddy Vontari  and  Praveen Kumar Devaraj
+
 
 ####Table of Contents:
 
