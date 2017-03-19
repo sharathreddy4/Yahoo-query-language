@@ -1,10 +1,10 @@
 ## YAHOO QUERY LANGUAGE
-
+- This repo is a presentation on Yahoo query language.
 - CSCI5828-Presentation 2
 - by Sharath Reddy Vontari(shvo9452)  and  Praveen Kumar Devaraj(prde1873)
 
 
-####Table of Contents:
+Table of Contents:
 
 1) [Introduction](https://github.com/sharathvontari/Yahoo-query-language/blob/master/Introduction.md)
 
